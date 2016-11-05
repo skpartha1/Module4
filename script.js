@@ -6,7 +6,6 @@ console.log(names)
 for (var i = 0; i < names.length; i++) {
   
   var firstLetter = ((names[i]).charAt(0)).toLowerCase();
-  console.log(firstLetter)
   
     
   if (firstLetter == 'j')
